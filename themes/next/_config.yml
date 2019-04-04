@@ -8,7 +8,7 @@ favicon: /favicon.ico
 
 
 # Set default keywords (Use a comma to separate)
-keywords: "Dempe"
+keywords: "郑大侠"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -38,7 +38,6 @@ menu:
   archives: /archives
 #  tags: /tags
   categories : /categories
-  crossed: http://zhizus.com
   about: /about
   #commonweal: /404.html
 
@@ -53,7 +52,6 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  crossed: camera-retro
   categories: th
   tags: tags
   archives: archive
@@ -132,7 +130,7 @@ font:
   #LinkLabel: Link
 
 social:
-  GitHub: https://github.com/dempeZheng
+  GitHub: https://github.com/zhizus
   网易云音乐: http://music.163.com/#/user/home?id=6758793
 #  豆瓣: http://douban.com/people/your-user-name
   知乎: https://www.zhihu.com/people/dempe

@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.zhizus.com
+url: https://zhizus.github.io/
 root: /
 permalink: :title.html
 permalink_defaults:
@@ -95,8 +95,8 @@ theme: next
 
 deploy:
   type: git
-  repo: https://github.com/dempeZheng/code.git
-  branch: gh-pages
+  repo: https://github.com/zhizus/zhizus.github.io
+  branch: master
 
 
 baidu_analytics: f75c9cec9ecead0dfce9a108b9688072
